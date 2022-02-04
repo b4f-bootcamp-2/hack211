@@ -1,0 +1,89 @@
+
+.adminmain {
+    border-bottom: 2px solid darkgray;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+.mainwrapper {
+    width: 100%;
+    max-width: 1300px;
+background-color: white;
+    min-height: 100vh;
+    padding: 15px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.produtos {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.mainedit {
+    display: flex;
+    min-width: 100%;
+    max-width: 100%;
+    flex-direction: row;
+    overflow-x: auto;}
+
+.maineditproduct {
+    box-shadow:0px 0px 4px 2px rgb(65, 64, 64);
+    min-width: 365px;
+    height: 300px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    text-align: center;
+    margin: 5px;
+    font-weight: bold;
+}
+
+
+.maineditproduct input {
+    text-align: center;
+    font-weight: bold;
+}
+
+.addproduct {
+    text-align: center;
+    font-weight: bold;
+}
+
+.prod {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 5px;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+}
+
+.img {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-size: cover;
+    margin: 5px;
+    box-shadow:0px 0px 4px 2px rgb(65, 64, 64);
+}
+
+.actualimg {
+    height: 300px;
+    width: 300px;
+}
+
+.imgtext {
+    display: flex;
+}

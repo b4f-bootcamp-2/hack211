@@ -1,0 +1,40 @@
+[{
+    "_id": {
+        "$oid": "61fd108a544d5e5e1eace1e8"
+    },
+    "nome": "Air Max",
+    "preco": 100,
+    "stock": 0,
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c220fba8-01b9-4e20-bf5b-63153d3652eb/air-max-90-shoes-HtBg1x.png",
+    "desc": ""
+},
+{
+    "_id": {
+        "$oid": "61fd12c6544d5e5e1eace1e9"
+    },
+    "nome": "Air Huarache",
+    "preco": 130,
+    "stock": 0,
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bf81bcf5-afda-4ce0-a6cf-1797b8132be4/air-huarache-shoes-klS5NQ.png",
+    "desc": ""
+},
+{
+    "_id": {
+        "$oid": "61fd1380544d5e5e1eace1ea"
+    },
+    "nome": "React Infinity",
+    "preco": 200,
+    "stock": 0,
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/54830e24-e2d7-4c03-9071-a8b5de471c19/react-infinity-run-flyknit-2-road-running-shoes-CkH6fB.png",
+    "desc": ""
+},
+{
+    "_id": {
+        "$oid": "61fd14be544d5e5e1eace1eb"
+    },
+    "nome": "Jordan MA2",
+    "preco": 90,
+    "stock": 3,
+    "img": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/68740f47-88ed-446d-ae0b-b64841512eb6/jordan-ma2-shoe-1lDRFl.png",
+    "desc": ""
+}]
